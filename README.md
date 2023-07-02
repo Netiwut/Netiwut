@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Netiwut</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Next.js, Golang**
 
-- 💬 Ask me about **React.js, Vue**
+- 💬 Ask me about **React.js, Vue, Javascript, Vanilla JS, html, css**
 
 - 📫 How to reach me **takter_10@hotmail.com**
 
